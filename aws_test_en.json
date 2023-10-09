@@ -416,12 +416,6 @@
       {
         "id": "E",
         "op": "The automatic extension of the master account's AWS support plan to all accounts"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -1254,12 +1248,6 @@
         "op": "Amazon ElastiCache"
       },
       {
-        "op": ""
-      },
-      {
-        "op": ""
-      },
-      {
         "id": "D",
         "op": "Amazon DynamoDB"
       }
@@ -2080,12 +2068,6 @@
         "op": "Enable Amazon CloudFront."
       },
       {
-        "op": ""
-      },
-      {
-        "op": ""
-      },
-      {
         "id": "E",
         "op": "Activate multi-factor authentication (MFA) for privileged users."
       }
@@ -2198,12 +2180,6 @@
       {
         "id": "D",
         "op": "AWS manages the database type."
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -2310,12 +2286,6 @@
       {
         "id": "A",
         "op": "Use AWS Budgets on each account to pay only to budget."
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "B",
@@ -3930,12 +3900,6 @@
         "op": "Focusing on decoupling components by isolating them and ensuring individual components can function when other components fail."
       },
       {
-        "op": ""
-      },
-      {
-        "op": ""
-      },
-      {
         "id": "D",
         "op": "Doubling EC2 computing resources to increase system fault tolerance."
       }
@@ -4634,12 +4598,6 @@
         "op": "Amazon Rekognition provides automatic watermarking of images."
       },
       {
-        "op": ""
-      },
-      {
-        "op": ""
-      },
-      {
         "id": "B",
         "op": "Amazon Rekognition provides automatic detection of objects appearing in pictures."
       },
@@ -5004,12 +4962,6 @@
         "op": "AWS CloudTrail"
       },
       {
-        "op": ""
-      },
-      {
-        "op": ""
-      },
-      {
         "id": "B",
         "op": "Amazon CloudWatch"
       },
@@ -5134,9 +5086,6 @@
       {
         "id": "D",
         "op": "4 hours"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -5507,12 +5456,6 @@
       {
         "id": "B",
         "op": "AWS Technical Account Manager"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "C",
@@ -6121,9 +6064,6 @@
         "op": "AWS automatically distributes the data globally for higher durability."
       },
       {
-        "op": ""
-      },
-      {
         "op": "@iPassLeader-"
       },
       {
@@ -6356,12 +6296,6 @@
       {
         "id": "A",
         "op": "AWS Direct Connect"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "B",
@@ -6624,12 +6558,6 @@
       {
         "id": "C",
         "op": "By having no operational expenditures"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "D",
@@ -7010,9 +6938,6 @@
         "op": "Maintaining physical hardware"
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -7147,12 +7072,6 @@
         "op": "By replacing large variable costs with lower capital investments"
       },
       {
-        "op": ""
-      },
-      {
-        "op": ""
-      },
-      {
         "id": "B",
         "op": "By replacing large capital investments with lower variable costs"
       },
@@ -7285,12 +7204,6 @@
       {
         "id": "D",
         "op": "Answering questions regarding technical support cases"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -7685,9 +7598,6 @@
       {
         "id": "B",
         "op": "Consolidated billing"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -8314,12 +8224,6 @@
         "op": "AWS Trusted Advisor"
       },
       {
-        "op": ""
-      },
-      {
-        "op": ""
-      },
-      {
         "id": "D",
         "op": "AWS CloudTrail"
       }
@@ -8564,12 +8468,6 @@
       {
         "id": "B",
         "op": "AWS Organizations"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "C",
@@ -9084,12 +8982,6 @@
         "op": "Switch automatically to Reserved Instances or Spot Instances, whichever is most cost-effective."
       },
       {
-        "op": ""
-      },
-      {
-        "op": ""
-      },
-      {
         "id": "E",
         "op": "Move data stored in Amazon S3 to a more cost-effective storage class."
       }
@@ -9404,12 +9296,6 @@
       {
         "id": "D",
         "op": "Cost allocation report"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -9658,9 +9544,6 @@
         "op": "Access Control Lists (ACL)"
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -9785,9 +9668,6 @@
       {
         "id": "A",
         "op": "One or more physical data centers"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -10180,9 +10060,6 @@
       {
         "id": "A",
         "op": "On-Demand Instances"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -11135,12 +11012,6 @@
       {
         "id": "D",
         "op": "Amazon Connect"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -11261,12 +11132,6 @@
       {
         "id": "A",
         "op": "Vertical scaling"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "B",
@@ -11517,12 +11382,6 @@
       {
         "id": "B",
         "op": "Creating and rotating encryption keys"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "C",
@@ -12161,9 +12020,6 @@
         "op": "AWS Budgets"
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -12434,12 +12290,6 @@
       {
         "id": "D",
         "op": "Use AWS Direct Connect."
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -12684,9 +12534,6 @@
         "op": "Global reach"
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -12827,12 +12674,6 @@
       {
         "id": "C",
         "op": "Have the EC2 instance assume a role to obtain the privileges to upload the file."
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "D",
@@ -12977,12 +12818,6 @@
       {
         "id": "E",
         "op": "AWS CloudTrail"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -13225,12 +13060,6 @@
       {
         "id": "D",
         "op": "Action links"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -13375,12 +13204,6 @@
       {
         "id": "D",
         "op": "Amazon Pinpoint"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -14349,9 +14172,6 @@
         "op": "Create a support case using the AWS account root user credentials requesting that a concierge accompany the auditor to the facility."
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -14492,9 +14312,6 @@
       {
         "id": "A",
         "op": "Data center security"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -14645,9 +14462,6 @@
       {
         "id": "D",
         "op": "Elasticity"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -15618,12 +15432,6 @@
         "op": "AWS CodeDeploy"
       },
       {
-        "op": ""
-      },
-      {
-        "op": ""
-      },
-      {
         "id": "C",
         "op": "AWS Backup"
       },
@@ -15758,9 +15566,6 @@
       {
         "id": "C",
         "op": "Amazon S3"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -15905,12 +15710,6 @@
         "op": "AWS service quotas"
       },
       {
-        "op": ""
-      },
-      {
-        "op": ""
-      },
-      {
         "id": "D",
         "op": "AWS shared responsibility model"
       },
@@ -16045,9 +15844,6 @@
       {
         "id": "B",
         "op": "AnyCompany must create a new support case in the AWS Support Center requesting that both bills be combined"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -16186,9 +15982,6 @@
       {
         "id": "A",
         "op": "Spot instances"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -17734,12 +17527,6 @@
       {
         "id": "D",
         "op": "Statement"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -18034,9 +17821,6 @@
       {
         "id": "C",
         "op": "Contacting AWS Support"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -18461,9 +18245,6 @@
       {
         "id": "B",
         "op": "AWS Trusted Advisor"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -18966,12 +18747,6 @@
       {
         "id": "B",
         "op": "Buy and host hardware in the AWS Cloud."
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "C",
@@ -19738,12 +19513,6 @@
       {
         "id": "D",
         "op": "Edge locations"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -19994,12 +19763,6 @@
       {
         "id": "E",
         "op": "Management of network throughput of each AWS Region"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -20264,9 +20027,6 @@
         "op": "AWS Budgets"
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -20381,12 +20141,6 @@
       {
         "id": "D",
         "op": "AWS VPN"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -20493,12 +20247,6 @@
       {
         "id": "C",
         "op": "The company cannot operate in a second Region until it updates its AWS contract."
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "D",
@@ -20731,9 +20479,6 @@
       {
         "id": "D",
         "op": "Reliability"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -20992,9 +20737,6 @@
         "op": "AWS Snowball Edge"
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -21135,12 +20877,6 @@
       {
         "id": "D",
         "op": "AWS Direct Connect"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -21265,12 +21001,6 @@
       {
         "id": "A",
         "op": "AWS WAF"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "B",
@@ -21402,9 +21132,6 @@
       },
       {
         "op": "users."
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -21551,12 +21278,6 @@
       {
         "id": "D",
         "op": "AWS Enterprise Support at no additional cost"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "E",
@@ -21937,9 +21658,6 @@
         "op": "Reserved Instances"
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -22080,9 +21798,6 @@
       {
         "id": "D",
         "op": "AWS Identity and Access Management (IAM)"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -22998,9 +22713,6 @@
         "op": "Spot Instances"
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -23163,12 +22875,6 @@
       {
         "id": "A",
         "op": "Scalability"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "B",
@@ -23459,9 +23165,6 @@
       {
         "id": "B",
         "op": "Amazon Elastic File System (Amazon EFS)"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -23768,9 +23471,6 @@
         "op": "Amazon Elastic Block Store (Amazon EBS)"
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -24065,9 +23765,6 @@
       {
         "id": "D",
         "op": "Dedicated Hosts"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -24674,12 +24371,6 @@
         "op": "Run S3 Transfer Acceleration for the S3 bucket."
       },
       {
-        "op": ""
-      },
-      {
-        "op": ""
-      },
-      {
         "id": "B",
         "op": "Ensure that the S3 bucket is in the most cost-effective AWS Region."
       },
@@ -25152,12 +24843,6 @@
         "op": "AWS CodePipeline"
       },
       {
-        "op": ""
-      },
-      {
-        "op": ""
-      },
-      {
         "id": "D",
         "op": "AWS Amplify"
       }
@@ -25314,12 +24999,6 @@
       {
         "id": "A",
         "op": "Amazon Elastic File System (Amazon EFS)"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "B",
@@ -25793,12 +25472,6 @@
         "op": "The change lo a different AWS Support plan"
       },
       {
-        "op": ""
-      },
-      {
-        "op": ""
-      },
-      {
         "id": "C",
         "op": "The creation of an organization in AWS Organizations"
       },
@@ -26263,9 +25936,6 @@
         "op": "Pay-as-you-go resource pricing"
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -26416,12 +26086,6 @@
       {
         "id": "A",
         "op": "AWS Direct Connect"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "B",
@@ -27517,9 +27181,6 @@
         "op": "Change the AWS Support plan."
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -27780,9 +27441,6 @@
       {
         "id": "A",
         "op": "AWS Step Functions"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -28167,9 +27825,6 @@
         "op": "Prevent managers from accessing important source code."
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -28304,12 +27959,6 @@
       {
         "id": "E",
         "op": "Amazon EC2"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -28668,9 +28317,6 @@
         "op": "Data encryption at rest"
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -28893,9 +28539,6 @@
         "op": "AWS CodeCommit"
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -29014,12 +28657,6 @@
       {
         "id": "B",
         "op": "Cost Explorer"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "C",
@@ -29877,9 +29514,6 @@
         "op": "Configure the daemon to write to the log file."
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -30027,9 +29661,6 @@
       {
         "id": "B",
         "op": "Use InputPath in a Catch statement and set the value to null."
-      },
-      {
-        "op": ""
       },
       {
         "op": "PassLeader:"
@@ -30958,12 +30589,6 @@
       {
         "id": "D",
         "op": "Amazon EC2 Auto Scaling"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -31308,12 +30933,6 @@
         "op": "Maintain the runtime environment."
       },
       {
-        "op": ""
-      },
-      {
-        "op": ""
-      },
-      {
         "id": "D",
         "op": "Maintain the networking infrastructure."
       },
@@ -31552,12 +31171,6 @@
       {
         "id": "D",
         "op": "Grant permissions to applications that run on Amazon EC2 instances."
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -31690,12 +31303,6 @@
       {
         "id": "D",
         "op": "AWS Technical Support team"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       }
     ]
   },
@@ -32102,12 +31709,6 @@
         "op": "Activate AWS Shield on an MFA-compatible device."
       },
       {
-        "op": ""
-      },
-      {
-        "op": ""
-      },
-      {
         "id": "C",
         "op": "Acquire an MFA-compatible device."
       },
@@ -32232,9 +31833,6 @@
       {
         "id": "D",
         "op": "Amazon VPC"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -32947,9 +32545,6 @@
         "op": "Perform operations as code."
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -33418,9 +33013,6 @@
       {
         "id": "B",
         "op": "1-year No Upfront Reserved Instances"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -33893,9 +33485,6 @@
         "op": "AWS Regions"
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -34362,9 +33951,6 @@
         "op": "Route tables and AWS Shield"
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -34529,9 +34115,6 @@
         "op": "Managing the operating system updates on the S3 bucket"
       },
       {
-        "op": ""
-      },
-      {
         "op": "@ilPassLeader’"
       },
       {
@@ -34686,12 +34269,6 @@
       {
         "id": "C",
         "op": "AWS Billing and Cost Management dashboard"
-      },
-      {
-        "op": ""
-      },
-      {
-        "op": ""
       },
       {
         "id": "D",
@@ -34850,9 +34427,6 @@
       {
         "id": "B",
         "op": "Amazon Textract"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
@@ -35109,9 +34683,6 @@
       {
         "id": "C",
         "op": "AWS Business Support"
-      },
-      {
-        "op": ""
       },
       {
         "op": "@ilPassLeader’"
