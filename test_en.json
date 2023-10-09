@@ -2762,7 +2762,7 @@
     ]
   },
   {
-    "question": "Which AWS service would you use to obtain compliance reports and certificates?@ilPassLeader’of IT Certifications",
+    "question": "Which AWS service would you use to obtain compliance reports and certificates?",
     "answer": "A",
     "options": [
       {
@@ -5086,12 +5086,6 @@
       {
         "id": "D",
         "op": "4 hours"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       }
     ]
   },
@@ -6064,12 +6058,6 @@
         "op": "AWS automatically distributes the data globally for higher durability."
       },
       {
-        "op": "@iPassLeader-"
-      },
-      {
-        "op": "‘of IT Certifications"
-      },
-      {
         "id": "B",
         "op": "AWS will take care of operating the application."
       },
@@ -6938,12 +6926,6 @@
         "op": "Maintaining physical hardware"
       },
       {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
-      },
-      {
         "id": "C",
         "op": "Securing application access and data"
       },
@@ -7598,12 +7580,6 @@
       {
         "id": "B",
         "op": "Consolidated billing"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       },
       {
         "id": "C",
@@ -9098,7 +9074,7 @@
     ]
   },
   {
-    "question": "A user needs to generate a report that outlines the status of key security checks in an AWS account. The report must include:- The status of Amazon S3 bucket permissions.- Whether multi-factor authentication is enabled for the AWS account root user.- If any security groups are configured to allow unrestricted access.@ilPassLeader’of IT CertificationsWhere can all this information be found in one location?",
+    "question": "A user needs to generate a report that outlines the status of key security checks in an AWS account. The report must include:- The status of Amazon S3 bucket permissions.- Whether multi-factor authentication is enabled for the AWS account root user.- If any security groups are configured to allow unrestricted access.Where can all this information be found in one location?",
     "answer": "C",
     "options": [
       {
@@ -9542,12 +9518,6 @@
       {
         "id": "D",
         "op": "Access Control Lists (ACL)"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       }
     ]
   },
@@ -9668,12 +9638,6 @@
       {
         "id": "A",
         "op": "One or more physical data centers"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       },
       {
         "id": "B",
@@ -10060,12 +10024,6 @@
       {
         "id": "A",
         "op": "On-Demand Instances"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       },
       {
         "id": "B",
@@ -11758,7 +11716,7 @@
     ]
   },
   {
-    "question": "A user has limited knowledge of AWS services, but wants to quickly deploy a scalable Node.js application in the AWS Cloud.Which service should be used to deploy the application?@ilPassLeader’of IT Certifications",
+    "question": "A user has limited knowledge of AWS services, but wants to quickly deploy a scalable Node.js application in the AWS Cloud.Which service should be used to deploy the application?",
     "answer": "B",
     "options": [
       {
@@ -12018,12 +11976,6 @@
       {
         "id": "A",
         "op": "AWS Budgets"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       },
       {
         "id": "B",
@@ -12532,12 +12484,6 @@
       {
         "id": "C",
         "op": "Global reach"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       },
       {
         "id": "D",
@@ -14172,12 +14118,6 @@
         "op": "Create a support case using the AWS account root user credentials requesting that a concierge accompany the auditor to the facility."
       },
       {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
-      },
-      {
         "id": "B",
         "op": "Contact an AWS technical account manager and request access to the next scheduled facility tour."
       },
@@ -14312,12 +14252,6 @@
       {
         "id": "A",
         "op": "Data center security"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       },
       {
         "id": "B",
@@ -14462,12 +14396,6 @@
       {
         "id": "D",
         "op": "Elasticity"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       }
     ]
   },
@@ -15152,7 +15080,7 @@
     ]
   },
   {
-    "question": "@iPassLeader-‘of IT CertificationsWhich of the following should be considered when performing a Total Cost of Ownership (TCO) analysis?",
+    "question": "Which of the following should be considered when performing a Total Cost of Ownership (TCO) analysis?",
     "answer": "B",
     "options": [
       {
@@ -15288,7 +15216,7 @@
     ]
   },
   {
-    "question": "Which Amazon EC2 pricing model provides the MOST cost savings for an always-up, right-sized database server running for a project that will last 1 year?@ilPassLeader’of IT Certifications",
+    "question": "Which Amazon EC2 pricing model provides the MOST cost savings for an always-up, right-sized database server running for a project that will last 1 year?",
     "answer": "B",
     "options": [
       {
@@ -15568,12 +15496,6 @@
         "op": "Amazon S3"
       },
       {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
-      },
-      {
         "id": "D",
         "op": "Amazon Simple Email Service (Amazon SES)"
       }
@@ -15846,12 +15768,6 @@
         "op": "AnyCompany must create a new support case in the AWS Support Center requesting that both bills be combined"
       },
       {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
-      },
-      {
         "id": "C",
         "op": "Send an invitation to join the organization from AnyCompany's AWS Organizations master account to Example Corp"
       },
@@ -15982,12 +15898,6 @@
       {
         "id": "A",
         "op": "Spot instances"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       },
       {
         "id": "B",
@@ -16254,7 +16164,7 @@
     ]
   },
   {
-    "question": "@ilPassLeader’of IT CertificationsWhich tasks require using AWS account root user credentials? (Select TWO.)",
+    "question": "Which tasks require using AWS account root user credentials? (Select TWO.)",
     "answer": "C,D",
     "options": [
       {
@@ -17098,7 +17008,7 @@
     ]
   },
   {
-    "question": "@ilPassLeader’of IT CertificationsWhich factor will have the MOST effect on cost?",
+    "question": "Which factor will have the MOST effect on cost?",
     "answer": "A",
     "options": [
       {
@@ -17369,7 +17279,7 @@
     ]
   },
   {
-    "question": "A company uses Amazon EC2 Instances in its AWS account tor several different workloads. The company needs to perform an analysis to understand the cost ofeach. workload. What is the MOST operationally efficient way to meet this requirement?@ilPassLeader’of IT Certifications",
+    "question": "A company uses Amazon EC2 Instances in its AWS account tor several different workloads. The company needs to perform an analysis to understand the cost ofeach. workload. What is the MOST operationally efficient way to meet this requirement?",
     "answer": "D",
     "options": [
       {
@@ -17823,12 +17733,6 @@
         "op": "Contacting AWS Support"
       },
       {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
-      },
-      {
         "id": "D",
         "op": "Changing AWS Support plans"
       },
@@ -18245,12 +18149,6 @@
       {
         "id": "B",
         "op": "AWS Trusted Advisor"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       },
       {
         "id": "C",
@@ -20025,12 +19923,6 @@
       {
         "id": "D",
         "op": "AWS Budgets"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       }
     ]
   },
@@ -20479,12 +20371,6 @@
       {
         "id": "D",
         "op": "Reliability"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       }
     ]
   },
@@ -20735,12 +20621,6 @@
       {
         "id": "D",
         "op": "AWS Snowball Edge"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       }
     ]
   },
@@ -21132,12 +21012,6 @@
       },
       {
         "op": "users."
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       }
     ]
   },
@@ -21658,12 +21532,6 @@
         "op": "Reserved Instances"
       },
       {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
-      },
-      {
         "id": "D",
         "op": "Dedicated Instances"
       }
@@ -21798,12 +21666,6 @@
       {
         "id": "D",
         "op": "AWS Identity and Access Management (IAM)"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       },
       {
         "id": "E",
@@ -22713,12 +22575,6 @@
         "op": "Spot Instances"
       },
       {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
-      },
-      {
         "id": "D",
         "op": "Dedicated Hosts"
       }
@@ -23167,12 +23023,6 @@
         "op": "Amazon Elastic File System (Amazon EFS)"
       },
       {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
-      },
-      {
         "id": "C",
         "op": "Amazon Cognito"
       },
@@ -23471,12 +23321,6 @@
         "op": "Amazon Elastic Block Store (Amazon EBS)"
       },
       {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
-      },
-      {
         "id": "C",
         "op": "Amazon Elastic File System (Amazon EFS)"
       },
@@ -23615,7 +23459,7 @@
     ]
   },
   {
-    "question": "A company wants to integrate its online shopping website with social media login credentials.Which AWS service can the company use to make this integration?@ilPassLeader’of IT Certifications",
+    "question": "A company wants to integrate its online shopping website with social media login credentials.Which AWS service can the company use to make this integration?",
     "answer": "C",
     "options": [
       {
@@ -23765,12 +23609,6 @@
       {
         "id": "D",
         "op": "Dedicated Hosts"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       }
     ]
   },
@@ -23907,7 +23745,7 @@
     ]
   },
   {
-    "question": "@ilPassLeader’of IT CertificationsWhich AWS service gives users the ability to develop loosely coupled microservices and improve service-to-service communication?",
+    "question": "Which AWS service gives users the ability to develop loosely coupled microservices and improve service-to-service communication?",
     "answer": "A",
     "options": [
       {
@@ -24061,7 +23899,7 @@
     ]
   },
   {
-    "question": "A company is managing millions of documents in hundreds of Amazon S3 buckets that are located in multiple AWS Regions. The company needs to find out if the@ilPassLeader’of IT CertificationsS3 buckets are hosting information (PII).What can the company do to meet this requirement with the LEAST amount of operational overhead?",
+    "question": "A company is managing millions of documents in hundreds of Amazon S3 buckets that are located in multiple AWS Regions. The company needs to find out if theS3 buckets are hosting information (PII).What can the company do to meet this requirement with the LEAST amount of operational overhead?",
     "answer": "C",
     "options": [
       {
@@ -25159,7 +24997,7 @@
     ]
   },
   {
-    "question": "A company has a serverless application that includes an Amazon API Gateway DynamoDB database a function, and an Amazon.@ilPassLeader’of IT CertificationsWhich AWS service can the company use to trace user requests as they move through the application s components?",
+    "question": "A company has a serverless application that includes an Amazon API Gateway DynamoDB database a function, and an Amazon.Which AWS service can the company use to trace user requests as they move through the application s components?",
     "answer": "A",
     "options": [
       {
@@ -25934,12 +25772,6 @@
       {
         "id": "D",
         "op": "Pay-as-you-go resource pricing"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       },
       {
         "id": "E",
@@ -26860,7 +26692,7 @@
     ]
   },
   {
-    "question": "An auditor is preparing for an annual security audit. The auditor requests certification details for a company's AWS hosted resources across multiple AvailabilityZones in the us-east-1 Region. How should the company respond to the auditor's request?@ilPassLeader’of IT Certifications",
+    "question": "An auditor is preparing for an annual security audit. The auditor requests certification details for a company's AWS hosted resources across multiple AvailabilityZones in the us-east-1 Region. How should the company respond to the auditor's request?",
     "answer": "A",
     "options": [
       {
@@ -27017,7 +26849,7 @@
     ]
   },
   {
-    "question": "@ilPassLeader’of IT CertificationsWhich AWS compute service automatically scales resources up or down to meet application workload demands?",
+    "question": "Which AWS compute service automatically scales resources up or down to meet application workload demands?",
     "answer": "D",
     "options": [
       {
@@ -27179,12 +27011,6 @@
       {
         "id": "D",
         "op": "Change the AWS Support plan."
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       },
       {
         "id": "E",
@@ -27441,12 +27267,6 @@
       {
         "id": "A",
         "op": "AWS Step Functions"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       },
       {
         "id": "B",
@@ -27823,12 +27643,6 @@
       {
         "id": "B",
         "op": "Prevent managers from accessing important source code."
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       },
       {
         "id": "C",
@@ -28315,12 +28129,6 @@
       {
         "id": "D",
         "op": "Data encryption at rest"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       }
     ]
   },
@@ -28537,12 +28345,6 @@
       {
         "id": "A",
         "op": "AWS CodeCommit"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       },
       {
         "id": "B",
@@ -29514,12 +29316,6 @@
         "op": "Configure the daemon to write to the log file."
       },
       {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
-      },
-      {
         "id": "D",
         "op": "Add an X-Forwarded-For header to the HTTP server log configuration file"
       }
@@ -29666,7 +29462,7 @@
         "op": "PassLeader:"
       },
       {
-        "op": "Leader of IT Certifications"
+        "op": "Leader"
       },
       {
         "id": "C",
@@ -30333,7 +30129,7 @@
     ]
   },
   {
-    "question": "A developer has created an AWS Lambda function lo provide notification through Amazon Simple Notification Service (Amazon SNS) whenever a file is uploadedto Amazon S3 that is larger than 50 MB. The developer has deployed and tested the Lambda function by using the CLI. However, when the event notification is@ilPassLeader’of IT Certificationsadded to the S3 bucket and a 3.000 MB file is uploaded, the Lambda function does not launch.Which of the following is a possible reason for the Lambda function's inability to launch?",
+    "question": "A developer has created an AWS Lambda function lo provide notification through Amazon Simple Notification Service (Amazon SNS) whenever a file is uploadedto Amazon S3 that is larger than 50 MB. The developer has deployed and tested the Lambda function by using the CLI. However, when the event notification isadded to the S3 bucket and a 3.000 MB file is uploaded, the Lambda function does not launch.Which of the following is a possible reason for the Lambda function's inability to launch?",
     "answer": "B",
     "options": [
       {
@@ -31833,12 +31629,6 @@
       {
         "id": "D",
         "op": "Amazon VPC"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       }
     ]
   },
@@ -32089,7 +31879,7 @@
     ]
   },
   {
-    "question": "A company needs to audit its AWS resources. The company must document any changes that have been made to the resources. Which AWS service will meetthese requirements?@ilPassLeader’of IT Certifications",
+    "question": "A company needs to audit its AWS resources. The company must document any changes that have been made to the resources. Which AWS service will meetthese requirements?",
     "answer": "B",
     "options": [
       {
@@ -32543,12 +32333,6 @@
       {
         "id": "A",
         "op": "Perform operations as code."
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       },
       {
         "id": "B",
@@ -33015,12 +32799,6 @@
         "op": "1-year No Upfront Reserved Instances"
       },
       {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
-      },
-      {
         "id": "C",
         "op": "3-year All Upfront Reserved Instances"
       },
@@ -33485,12 +33263,6 @@
         "op": "AWS Regions"
       },
       {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
-      },
-      {
         "id": "C",
         "op": "Availability Zones"
       },
@@ -33949,12 +33721,6 @@
       {
         "id": "D",
         "op": "Route tables and AWS Shield"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       }
     ]
   },
@@ -34113,12 +33879,6 @@
       {
         "id": "D",
         "op": "Managing the operating system updates on the S3 bucket"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       }
     ]
   },
@@ -34429,12 +34189,6 @@
         "op": "Amazon Textract"
       },
       {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
-      },
-      {
         "id": "C",
         "op": "Amazon Transcribe"
       },
@@ -34683,12 +34437,6 @@
       {
         "id": "C",
         "op": "AWS Business Support"
-      },
-      {
-        "op": "@ilPassLeader’"
-      },
-      {
-        "op": "of IT Certifications"
       },
       {
         "id": "D",
