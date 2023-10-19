@@ -4836,7 +4836,7 @@
     ]
   },
   {
-    "question": "[iPassLeaderA user wants guidance on possible savings when migrating from on-premises to AWS.Which tool is suitable for this scenario?",
+    "question": "A user wants guidance on possible savings when migrating from on-premises to AWS.Which tool is suitable for this scenario?",
     "answer": "C",
     "options": [
       {
@@ -10154,7 +10154,7 @@
     ]
   },
   {
-    "question": "[iPassLeader’What is the purpose of having an internet gateway within a VPC?",
+    "question": "What is the purpose of having an internet gateway within a VPC?",
     "answer": "B",
     "options": [
       {
@@ -16448,7 +16448,7 @@
     ]
   },
   {
-    "question": "A company with an AWS Business Support plan wants to identify Amazon EC2 Reserved that are scheduled to expire.[iPassLeaderWhich AWS service or feature can the company use to accomplish this goal?",
+    "question": "A company with an AWS Business Support plan wants to identify Amazon EC2 Reserved that are scheduled to expire.Which AWS service or feature can the company use to accomplish this goal?",
     "answer": "C",
     "options": [
       {
@@ -21949,7 +21949,7 @@
     ]
   },
   {
-    "question": "[iPassLeaderWhich AWS service or tool helps to centrally manage billing and allow controlled access to resources across AWS account?",
+    "question": "Which AWS service or tool helps to centrally manage billing and allow controlled access to resources across AWS account?",
     "answer": "B",
     "options": [
       {
@@ -26236,7 +26236,7 @@
     ]
   },
   {
-    "question": "[iPassLeaderWhat is a benefit of using AWS Auto Scaling?",
+    "question": "What is a benefit of using AWS Auto Scaling?",
     "answer": "C",
     "options": [
       {
