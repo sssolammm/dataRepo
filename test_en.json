@@ -30713,32 +30713,6 @@
     ]
   },
   {
-    "question": "A company is using AWS Lambd",
-    "answer": "C",
-    "options": [
-      {
-        "id": "A",
-        "op": "Which task is the company's responsibility, according to the AWS shared responsibility model?"
-      },
-      {
-        "id": "B",
-        "op": "Update the Lambda runtime language."
-      },
-      {
-        "id": "C",
-        "op": "Maintain the runtime environment."
-      },
-      {
-        "id": "D",
-        "op": "Maintain the networking infrastructure."
-      },
-      {
-        "id": "E",
-        "op": "Configure the resource."
-      }
-    ]
-  },
-  {
     "question": "Which action will provide documentation to help a company evaluate whether its use of the AWS Cloud is compliant with local regulatory standards?",
     "answer": "B",
     "options": [
